@@ -1,0 +1,926 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yperaspistes or a buckler for the Church of England against certaine queries propounded by Mr Pendarvis (late lecturer of Wanting) called Arrowes against Babylon. By way of reply to the most remarkable passages contained in them, and an addition of severall anti-queries in the close. / By William Ley Minister of the Gospell at Wanting in Bark-shire.</title>
+            <author>Ley, William, b. 1620 or 21.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88109</idno>
+            <idno type="STC">Wing L1888</idno>
+            <idno type="STC">Thomason E882_1</idno>
+            <idno type="STC">ESTC R207277</idno>
+            <idno type="EEBO-CITATION">99866338</idno>
+            <idno type="PROQUEST">99866338</idno>
+            <idno type="VID">118609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118609)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E882[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yperaspistes or a buckler for the Church of England against certaine queries propounded by Mr Pendarvis (late lecturer of Wanting) called Arrowes against Babylon. By way of reply to the most remarkable passages contained in them, and an addition of severall anti-queries in the close. / By William Ley Minister of the Gospell at Wanting in Bark-shire.</title>
+                  <author>Ley, William, b. 1620 or 21.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leon. Lichfield printer to the Unversity, for Tho. Robinson.,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word in the title is in Greek letters.</note>
+                  <note>A reply to Pendarves, John.  Arrowes against Babylon.</note>
+                  <note>Pendarves, a Baptist, let fly his arrows (Lond. 1656) at the Church of Rome, the English Church, and the Quakers with admirable impartiality. Ley, an Independent, stands up for Church and Commonwealth and irrelevantly proves Rome to be the Beast, or rather no. 666, by Hebrew, Greek, Latin, and English numeration (p.2). The 'Church of England' he defends: the Quakers are left alone. -- Madan.</note>
+                  <note>Annotation on Thomason copy: "June 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pendarves, John, 1622-1656. --  Arrowes against Babylon --  Early works to 1800.</term>
+               <term>Church of England --  Early works to 1800.</term>
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118609:1" rendition="simple:additions"/>
+            <p>ΎΠΕΡΑΣΠΙΣΤΗΣ</p>
+            <p>OR A <hi>B<g ref="char:V">Ʋ</g>CKLER</hi> for the Church of England Againſt Certaine Queries Propounded by M<hi rend="sup">R</hi> PENDARVIS (late Lecturer of <hi>Wanting</hi>) called <hi>Arrowes Againſt Babylon.</hi>
+            </p>
+            <p>By way of Reply to the moſt Remarkable Paſſages contained in them, and an addition of ſeverall Anti-Queries in the Cloſe.</p>
+            <p>By WILLIAM LEY Miniſter of the Goſpell at <hi>Wanting</hi> in <hi>Bark-ſhire.</hi>
+            </p>
+            <q>Eccleſia dum Contemnitur profecit; dum Laeditur vineit; dum Arguitur intelligit; Tunc ſtat cum ſuperari videtur. <bibl>
+                  <hi>Hilar.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Zechar.</hi> 3.</bibl>
+               <p>And he ſhewed me Joſhua the High Prieſt ſtanding before the Lord, and Sathan ſtanding at his right hand to reſiſt him. <bibl>
+                     <hi>v.</hi> 1.</bibl>
+               </p>
+               <p>And the Lord ſaid unto Sathan, The Lord that hath choſen Jeruſalem rebuke thee, is not this <hi>a Brand plucked out of the fire?</hi> 
+                  <bibl>
+                     <hi>v.</hi> 2.</bibl>
+               </p>
+            </q>
+            <p>OXFORD Printed by LEON. LICHFIELD Printer to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> for THO. ROBINSON. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118609:2"/>
+            <pb facs="tcp:118609:2"/>
+            <head>To The Right Honourable <hi>COLONELL SIDENHAM</hi> one of his <hi>Highneſſe</hi> Councell of State.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving offered A Sacrifice of praiſe to God, for that great deli<g ref="char:EOLhyphen"/>verance which was wrought for the Miniſtry, in preventing the ſubtile deſignes of ſuch, as would have ſubjected the Goſpell to the Law: In the next place I waited for an occaſion, whereby I might ſhew my ſelfe gratefull to the Inſtruments that procured this liberty for us, and broke the ſnares from off our feet, while we were almoſt ſinking under the burthen of legall triall.</p>
+            <p>And <hi>Sir,</hi> though it graciouſly pleaſed his Highneſſe to grant a publique and ſeaſonable redreſſe, (for which we ſtand dutifully engaged to his Highneſſe) yet in particular, you were the happy <hi>Medium</hi> whereby the firſt dawning of deliverance appreached; For in my firſt addreſſe your anſwer was no leſſe Accurate then Cordiall, while you reſolved to Cruſh the deſigne before its full birth, and to make it <hi>finem operantis</hi> if not <hi>operis:</hi> and indeed (bleſſed be God) you made it <hi>finem</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an end of the <hi>Artifice,</hi> as well as of the <hi>Artificer;</hi> To you therefore <hi>(Worthy Sir)</hi> I pre<g ref="char:EOLhyphen"/>ſume to dedicate this enſuing Diſcourſe: It is a Buckler both for Church and State, againſt ſome Arrowes lately darted at us by <hi>M. P.</hi> who hath attempted to prove, our England Babylon, and our Miniſtry (not to ſay Magiſtracy) Anti-Chriſtian: I know <hi>Sir,</hi> it is ſafer to contend in words, then deeds, And that the Arrowes of the tongue are more blunt, then the Arrowes of the Feild, yet I favour the peace of Jeruſalem ſo much, that I would not willingly have her ſhot at in a Type.</p>
+            <p>I will not ſpeake ſo
+<note n="a" place="margin">Munceri lactantia Sleid. Com.</note> boldly, as to ſay, I dare take up all the Arrowes he hath ſhot againſt England in my ſkirt; I leave the Reader to judge of the iſſue. Yet I hope by vertue of this Buckler, I have vindicated the cauſe of Church and Common-Wealth, and placed them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, out of all perill of being endamaged by his Quiver. If this be not enough, the Author is willing (upon ſo great an interest) if need require, not only to interpoſe his Buckler, but expoſe his life, and to become a publique Sacrifice.</p>
+            <p>The Lord ever preſerve this Church, and Common Wealth, and make you yet farther inſtrumentall, to accompliſh his manifold, and glorious ends, which is the prayer of</p>
+            <closer>
+               <signed>Your Honours Humbly devoted Servant in Chriſt, WILLIAM LEY.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:118609:3"/>
+            <head>To the Author of the Queries.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU have preſented the world with <hi>Queries,</hi> and whether you deſire a Solution of them, or a com<g ref="char:EOLhyphen"/>pliance with them, will ſoon be decided, by your Acceptation or rejection of this enſuing Anſwer. Had the firſt part of your Booke been Corre<g ref="char:EOLhyphen"/>ſpondent with the two laſt, I ſuppoſe you had deſerved encourage<g ref="char:EOLhyphen"/>ment: But ſeeing your <hi>Arrowes againſt Babylon,</hi> are indeed pre<g ref="char:EOLhyphen"/>pared againſt <hi>England,</hi> I ſtand amazed to think how England, that is ſo farre diſtant from it in place, and ſo lately diſtant from it in Affections, ſhould ſo ſoone be crept to Babylon, by a Retrograde Motion, her Rulers and Watchmen not aware of it, and the <hi>Primum Mobile</hi> of the Nation, at this houre, preparing a formidable Army againſt it.</p>
+            <p>Me thinks the Tenderneſſe of the ſubject calls for a moderate hand; it is the Church of God, and who can expreſſe, how cheary we ſhould be in giving her a bill of Divorce, or inſtigating others to give it, before ſhee be manifeſtly Proved to be an <hi>Harlot,</hi> yea an obſtinate one, whom no admonition or conviction can cure.</p>
+            <p>But I will caſt aſide the ſpeech of Babylon for the preſent, till I meet with it againe in your papers, and view the Type of it, which is <hi>Aegypt,</hi> as your firſt Query doth unfold it ſelfe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118609:3"/>
+            <p>Q. 1. <hi>VVHether Iſraels going into Aegypt, their Bondage, and their deleverance, were not Typicall?
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And whether this hath not been confeſſed by all the Godly party in England, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Though Symbolicall Argumentation by Types and Figures, be like a Feather in a Souldiers Cap, more for ſhew, then for ſervice; yet if we diſtinguiſh <hi>Types</hi> into <hi>Neceſſary</hi> and <hi>Arbitrary,</hi> there will be ſome juſt occaſion for this preſent query.</p>
+            <p>This Type is mentioned by the holy Ghoſt <hi>Revel.</hi> 11.8. Spiri<g ref="char:EOLhyphen"/>tually called <hi>Sodom</hi> and <hi>Aegypt:</hi> It is alſo acknowledged by
+<note n="a" place="margin">
+                  <hi>Si compares Romanum Iſ<g ref="char:EOLhyphen"/>charioten cae<g ref="char:EOLhyphen"/>teris in orbe Tyrannis, qui ſunt, fuerunt, vel eſſe poſſunt videbis illos fuiſſe <g ref="char:V">Ʋ</g>mbras Tyrannicas, corpus autem Tyrannum ip<g ref="char:EOLhyphen"/>ſum eſſe Re<g ref="char:EOLhyphen"/>manum Idolu<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+               </note> 
+               <hi>Luther,
+<note n="b" place="margin">Whitaker Praelect. in Sacram. p. 109. in 4<hi rend="sup">o</hi>
+                  </note> Whitaker,
+<note n="c" place="margin">araus in Revel. p. 496.</note> Paraeus,</hi> and ſundry other famous Divines. We grant you therefore, that upon the ſame account, that we hold Circumciſion to be a Type of Baptiſme, we doe receive this of Aegypt to be a Type of Rome: but of this briefely, becauſe we allow it, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: only obſerve by the way; as there is but one <hi>Aegypt</hi> Literall, ſo there is but one Myſticall: for what is true in the Type, is alſo true in the Antitype.</p>
+            <p>We now agree like ſundry travellers at our ſetting forth, if we part hereafter upon the rode, it ſhall be upon Sober and Religious Grounds: for I hope you count it with me, a main branch of our Chriſtian freedome, to keep no man company, farther then he is, or if rightly informed would be, a companion to the Truth.</p>
+            <p>Q. 2. <hi>Whether the Church of Rome, and principally the Head of that Body, the Eccleſiaſticall Powers, the Pope,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> with his Cardinalls be not Myſticall Babylon? Revel</hi> 17. <hi>and whether thoſe Characters may be applyed to any Church whatſoever as to the Church of Rome?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 2. That the Church of <hi>Rome</hi> is Myſticall <hi>Babylon,</hi> I ſup<g ref="char:EOLhyphen"/>ſuppoſe an ingenuous
+<note n="a" place="margin">
+                  <hi>Famoſa di<g ref="char:EOLhyphen"/>cam an Infa<g ref="char:EOLhyphen"/>mis Meretrix? fornicata cum Regibus Terrae, Illa quidem es, Quam in Spiritu ſacer vidit Evangeliſta, illa eadem inquam es non alia, ſedes ſuper Aquas multas.</hi> Petrarch. Ep. 16. &amp; Berk. Evid. p. 62.</note> Papiſt will not deny: but that the
+<pb n="2" facs="tcp:118609:4"/>particular Characters, laid down by the holy Ghoſt, to deſcribe Rome, are as applicable to any State whatſoever, no ingenuous Proteſtant will grant: for all know the nature of individualls is to be incommunicable: and that that chapter (<hi>Revel.</hi> 17.) doth ſet forth one individuall State, though not one individuall Perſon, is the mind of all Interpreters: A man at one time one, (ſaith <hi>Wollebius</hi>) but in ſucceſſion of time an order of men, in the ſame ſtate ſucceeding each other.</p>
+            <p>Antichriſt (ſaith
+<note n="b" place="margin">Jewell 2 <hi>Theſſ.</hi> 2.</note> 
+               <hi>Jewell</hi>) ſhall be one eſtate, or Kingdome of men: and he alone that ſtops his comming is the Roman Em<g ref="char:EOLhyphen"/>perour. I will not name unto you <hi>Jerome, Chryſoſtome, Bernard,</hi> &amp;c. But
+<note n="c" place="margin">
+                  <hi>Fox</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in Revel. c.</hi> 13. <hi>p.</hi> 270.</note> M. <hi>Fox,</hi> whom I hope you will the rather own, becauſe you honour him with a Quotation: he therefore in his Comment up<g ref="char:EOLhyphen"/>on the <hi>Revelations,</hi> is point blanck againſt your <hi>Hypotheſis,</hi> for ſaith he, beſides this one, there is not, nor can be any City in the World, unto whom all the ſymptomes and accidents can agree, that are deſcribed <hi>Revel.</hi> 17.</p>
+            <p>But to argue, hath any other State a ſituation upon
+<note n="d" place="margin">
+                  <hi>Plutarch</hi> calls it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>Rom. Probl.</hi>
+               </note> 
+               <hi>Seven Hills?</hi> The Names of them are ſo well knowne, that I need not mention them: Hath any State Scarlet Ru<g ref="char:EOLhyphen"/>lers beſide <hi>Rome?</hi> Had any ever ſo great power over the Nations, as <hi>Rome</hi> both Heathe<g ref="char:EOLhyphen"/>niſh, &amp; Popiſh hath had? Hath any a golden cup of for<g ref="char:EOLhyphen"/>nication? Is any drunk with the blood of Martyrs? Doth the number
+<note n="e" place="margin">
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">
+                           <hi>Haebr.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Latinè.</hi>
+                        </cell>
+                        <cell role="label" cols="4">
+                           <hi>Graecè.</hi>
+                        </cell>
+                        <cell role="label" cols="2">
+                           <hi>Angicè.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>ר</cell>
+                        <cell>200</cell>
+                        <cell>
+                           <hi>RO</hi>
+                        </cell>
+                        <cell>Ϛ</cell>
+                        <cell>100</cell>
+                        <cell>λ</cell>
+                        <cell>30</cell>
+                        <cell>A</cell>
+                        <cell>70 as <hi>Heb.</hi> ע. the reſt</cell>
+                     </row>
+                     <row>
+                        <cell>מ</cell>
+                        <cell>40</cell>
+                        <cell>
+                           <hi>M</hi>
+                        </cell>
+                        <cell>ο</cell>
+                        <cell>70</cell>
+                        <cell>α</cell>
+                        <cell>1</cell>
+                        <cell>Man</cell>
+                        <cell>160 after the Greek</cell>
+                     </row>
+                     <row>
+                        <cell>ע</cell>
+                        <cell>70</cell>
+                        <cell>
+                           <hi>A</hi>
+                        </cell>
+                        <cell>μ</cell>
+                        <cell>40</cell>
+                        <cell>τ</cell>
+                        <cell>300</cell>
+                        <cell>of</cell>
+                        <cell>200</cell>
+                     </row>
+                     <row>
+                        <cell>נ</cell>
+                        <cell>50</cell>
+                        <cell>
+                           <hi>N</hi>
+                        </cell>
+                        <cell>ν</cell>
+                        <cell>50</cell>
+                        <cell>ε</cell>
+                        <cell>5</cell>
+                        <cell>R</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>ו</cell>
+                        <cell>6</cell>
+                        <cell>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>
+                           </hi>
+                        </cell>
+                        <cell>υ</cell>
+                        <cell>400</cell>
+                        <cell>ι</cell>
+                        <cell>10</cell>
+                        <cell>O</cell>
+                        <cell>70</cell>
+                     </row>
+                     <row>
+                        <cell>ש</cell>
+                        <cell>300</cell>
+                        <cell>
+                           <hi>S</hi>
+                        </cell>
+                        <cell>σ</cell>
+                        <cell>6</cell>
+                        <cell>ν</cell>
+                        <cell>50</cell>
+                        <cell>ME</cell>
+                        <cell>46</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>ο</cell>
+                        <cell>70</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>σ</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p>I ſuppoſe the name <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> according to <hi>Wollebius</hi> his Account to be moſt Authentick, for <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> according to M. <hi>Fox</hi> ſignifies 41 &amp; ſo amounts to 667: &amp; as for <hi>Bellarmines Cavill</hi> that it ſhould be wrote <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> it is eaſily anſwered, ſeeing <hi>Romanus</hi> is in Greek <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> as well as <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Latinus,</hi> let the Reader obſerve, that though it agrees in all Languages, yet the number is found out moſt variouſly, and excellently in that Character, wherein the Evangeliſt wrote his Propheſies.</p>
+               </note> 666 agree to a<g ref="char:EOLhyphen"/>ny in all Langua<g ref="char:EOLhyphen"/>ges, ſave to her? which <hi>Irenaeus</hi> un<g ref="char:EOLhyphen"/>derſtood to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, about fifteen Hundred yeares agoe? Saint <hi>John</hi> in
+<pb n="3" facs="tcp:118609:4"/>this number is thought not only to point at his name, but alſo to hint at the time of his riſe, and continuance
+<note n="f" place="margin">Reynolds againſt Hart p. 214.</note> 
+               <hi>Rev.</hi> 13.18.</p>
+            <p>But to examine your quotation of <hi>Rev.</hi> 17. and conſider the precedent verſes, as helpes to expound the ſubſequent, eſpeci<g ref="char:EOLhyphen"/>ally the 8, 9, 10, 11. <hi>verſ.</hi>
+            </p>
+            <p>The Beaſt it was, is not, ſhall be, and ſhall aſcend:</p>
+            <p>
+               <hi>The Beaſt,</hi>] By this name is meant a Prophane ſtate, <hi>viz.</hi> the Romane Empire.</p>
+            <p>
+               <hi>It was,</hi>] Heatheniſh in S. <hi>Johns</hi> time.</p>
+            <p>
+               <hi>Is not,</hi>] It is not at the time of this Propheſy, what hereafter it ſhall be, when once it is deſtroyed by the Goths and Vandalls.</p>
+            <p>
+               <hi>Shall Aſcend,</hi>] The Pope ſhall Aſcend, <hi>(id eſt)</hi> the Church ſhall ſwallow up the Empire; and what the Romane Empire was, that now the Romane Popedome is.</p>
+            <p>It is not, and yet it is; a Riddle not to be unfolded,
+<note place="margin">
+                  <hi>Papiſmus, pro<g ref="char:EOLhyphen"/>ut a concilio Tridentino fu<g ref="char:EOLhyphen"/>it confirmatus, eſt pernicioſa Haereſis</hi> Ameſ in Caſ. Conſ. de <hi>Q.</hi> an Pon<g ref="char:EOLhyphen"/>tificii ſint Haeretici? <hi>l.</hi> 4. <hi>c.</hi> 4. Coſ. 1. fol. 121</note> without diſtinguiſhing the various ſtate of the Beaſt, which retaines the Authority, though not the name of the Roman Emperour. If every corrupt State might be called Babylon, then the Spirit of God would not have ſaid <hi>It is Not,</hi> for at that time the Aſian Churches were corrupted, which was infallibly known by our Evangeliſt <hi>John, Rev.</hi> 2. &amp;c. Yea Rome it ſelfe was corrupt ſome Centuries of yeares, before it might be called Babylon apparently, even (accor<g ref="char:EOLhyphen"/>ding to the Judgement of ſome) till the Councell of Trent, which ſate down in the Chayre of Peſtilence, and eſtabliſhed iniquity by a Law.</p>
+            <p>We have tryed the <hi>Revelations,</hi> Let us alſo ſee <hi>Daniel</hi> and <hi>Paul,</hi> that in the mouth of two or three witneſſes every truth may be eſtabliſhed: for what <hi>John</hi> diſcuſſeth Graphically, that doth <hi>Daniel</hi> Typically, and <hi>Paul</hi> Topically, according to the Received opinion.</p>
+            <p>
+               <hi>Dan.</hi> 7.8. The fourth Beaſt is the Romane Empire, and the little Horne (ſaith <hi>Jewell</hi>) is Antichriſt.</p>
+            <p>So 2 <hi>Theſſ.</hi> 2.3, 4, 7. Who is he that exalts himſelfe above God, but he who calls himſelfe a God, and blaſphemouſly preferres his own Canons above the Word of God? who is he that letteth An<g ref="char:EOLhyphen"/>tichriſt from fitting on the Pinacle of pride, but the <hi>Romane Empe<g ref="char:EOLhyphen"/>rour?</hi> Who being taken away by <hi>Phocas,</hi> gave him occaſion to raiſe his Ambitious Plumes upon his Maſters Ruines: Now if any man, after ſo cleare evidence held forth to the ſtate of the queſtion, whether ſuch Characters as theſe may be applyed to any State? ſhall refuſe to give in his Aſſent, I leave him to be cenſured by
+<pb n="4" facs="tcp:118609:5"/>an higher Judgement then mine own, and that is Gods, and his own conſcience, <hi>Titus</hi> 3. <hi>v.</hi> 10, 11.</p>
+            <p>
+               <hi>Ob.</hi> Perhaps it may be objected by ſome, that the Scripture ſpeakes of many Antichriſts 1 <hi>Joh.</hi> 2.18.</p>
+            <p>
+               <hi>Sol.</hi> To it I anſwer, That Antichriſt is tooke in a twofold ſence; either Largely, or Strictly. 1. Largely for <hi>Ebion</hi> and <hi>Ce<g ref="char:EOLhyphen"/>rinthus.</hi> &amp;c. 2. Strictly for Chriſts grand enemy the Pope: whom <hi>Paul</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Theſſ.</hi> 2. Or with M. <hi>Fox,</hi> Antichriſt may be taken either
+<list>
+                  <item>1. Perſonally. or</item>
+                  <item>2 Figuratively.</item>
+               </list>
+            </p>
+            <p n="1">1. Perſonally, for any, or every perſon, that oppoſeth Chriſt: in which ſence M. <hi>P</hi> cannot ſay but himſelfe hath been an Antichriſt, if he ever oppoſed either Nature, perſon, or offices of Chriſt.</p>
+            <p n="2">2. Figuratively or Politically, ſo it ſets forth one State or Kingdome, or City, conſtituted under one Head, with divers Members. As there may be many petty Lords in a Nation, yet but one Lord Paramount, ſo there may be many petty Anti<g ref="char:EOLhyphen"/>chriſts,
+<note place="margin">
+                  <hi>Sunt multi Antichriſti, ſed unus pro<g ref="char:EOLhyphen"/>prie eſt An<g ref="char:EOLhyphen"/>tichriſtus, quem ſeriptu<g ref="char:EOLhyphen"/>ra filium perditionis Neminat</hi> 2 Theſ. 2. Aret, loc. com p. 375. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or by way of excellency, there is but one Antichriſt, but in generall all Haeretiques may be called Antichri<g ref="char:EOLhyphen"/>ſtian, <hi>Wolleb. Alſted.</hi>
+               </note> yet one only by way of eminency: for as <hi>Moſes</hi> his ſerpent ſwallowed up all other Serpents; and as the greater Fiſhes of the Sea ſwallow up the leſſe; So this grand Antichriſt hath carryed away the Bell, that is, the noyſe, and denomination from all the reſt.</p>
+            <p>Q. 3. <hi>Whether the Church of England (the Nation conſidered as a Church with the parochiall congregations) be not a daughter of that Babylon, and whether her miniſtry in point of ordination the Ofspring of the Pope?
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vel F. P. Imerrog.</note> Whether ſhe hath diſclaimed that Church State? Whether the groſſeſt corruptions in Q. M. dayes be not maintained? whether ſome new pieces added to the old Garment, Romiſh baptiſme &amp;c.</hi>
+            </p>
+            <p>Sir,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>3</label> in this query, you have heaped up ſeverall of the like na<g ref="char:EOLhyphen"/>ture, moſt of which might have been ſpared, had you vouchſafed to have read <hi>Jus divinum</hi> of the miniſtry of England; to which Booke, but that I favour the ſimple Reader, I might juſtly referre you: I ſhall ſpeake ſomewhat to the moſt of them, yet briefely, becauſe many of them have been handled before, by ſundry eminent Authors.</p>
+            <p n="1">1. To the firſt I anſwer, that a Church may be called Natio<g ref="char:EOLhyphen"/>nall
+<pb n="5" facs="tcp:118609:5"/>in two reſepcts. 1. Either becauſe it hath one nationall officer, worſhip, or place of worſhip, ſuch a nationall Church we are far from aſſerting. 2. Becauſe particular congregations agree ſo<g ref="char:EOLhyphen"/>lemnely in Doctrine and worſhip, under one civill Government: examples whereof you may find in <hi>Act.</hi> 8.1. and 15.4, 22.</p>
+            <p n="2">2. To the ſecond objection, I anſwer that the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the originall ſignifies a borderer, and in this caſe the name re<g ref="char:EOLhyphen"/>maines amongſt us upon a civill account, and we doe acknow<g ref="char:EOLhyphen"/>ledge, that the bare dwelling in a Pariſh maketh not a perſon a Covenanting member. Secondly, we may not allow but much diſlike the unequall diviſion of pariſhes, that it ſhould confine the Church, like a rotten parke-pale, and we expect a ſpeedy redreſſe therein; yet Churches in the New Teſtament are diſtinguiſhed by the reſpective bounds of their dwelling; as afore is proved. Thirdly, Governours and governed muſt dwell contiguouſly, that mutuall offices may be the better diſcharged, and that they may meet together in one place, and not be forced to travaile farther then a Sabbath dayes journey, except neceſſitated by ſome extraordinary occaſions.</p>
+            <p n="3">3. To the third objection I anſwer, that England is not a Daughter of Babylon, either by way of generation, regeneration, degeneration, or imitation. Our Church State (though Rome with the Gibeonites ſpeakes nothing but antiquity) is much elder, then to be beholding to Rome for its <hi>plantation;</hi> for if we enquire at what time Religion came firſt into England M. <hi>Fox</hi> &amp;
+<note n="a" place="margin">
+                  <hi>Gildas p.</hi> 13.</note> 
+               <hi>Gildas</hi> tell us, that Britaine received the Goſpell in the Emperour <hi>Tiberius</hi> his reigne, and that it came not from Rome, but <hi>Jeruſalem. Jewell, Theodoret, Flaeius Illericus,</hi> ſay that <hi>Paul</hi> himſelfe planted us, as he came by <hi>Spaine.</hi> It is moſtly received that <hi>Joſeph of Arimathea</hi> was ſent by <hi>Phillip</hi> form <hi>France</hi> to <hi>Brittaine</hi> about the yeare of Chriſt 63. and to this
+<note n="b" place="margin">Brittanno<g ref="char:EOLhyphen"/>rum Inac<g ref="char:EOLhyphen"/>ceſſa Loca ſub<g ref="char:EOLhyphen"/>duntur Chri<g ref="char:EOLhyphen"/>ſto. Tertull. contra Judaeos.</note> 
+               <hi>Tertullian</hi> atteſteth in his book againſt the Jewes.
+<note n="c" place="margin">
+                  <hi>Hom.</hi> 4. <hi>in Ezech.</hi>
+               </note> 
+               <hi>Origen</hi> (that lived in the ſecond Century) tels us, that Brittaine had conſented to the faith, and ſo alſo
+<note n="d" place="margin">Hom. quod. Chriſtus fit Deus.</note> 
+               <hi>Chryſoſtome</hi> &amp;c. So that it is a falſitie for <hi>Rome</hi> to challenge the converſion of us, and no leſſe abſurditie for us, to derive ſucceſſion from them.</p>
+            <p>The faith continued here from
+<note n="e" place="margin">
+                  <hi>Lucius Bri<g ref="char:EOLhyphen"/>tannoru<g ref="char:cmbAbbrStroke">̄</g> Rex, Chriſtianus fuit tempore Elutherii Ro<g ref="char:EOLhyphen"/>mani Epiſcopi, quod ſucceſſit faeliciter uſque ad tempora Diocleſiani Par. Eccleſ. Hiſtor. p.</hi> 165.</note> King <hi>Lucius</hi> to the comming of <hi>Auſtin</hi> the Monke, whom <hi>Gregory</hi> ſent hither 600 yeares after Chriſt, and when he came he found here divers Paſtors, and lear<g ref="char:EOLhyphen"/>ned men, that oppoſed the pride of <hi>Auſtin,</hi> the Popes Ambaſſadour.</p>
+            <p n="4">4. To the fourth objection, we ſay that the ordination of
+<pb n="6" facs="tcp:118609:6"/>Miniſtry came not from the Pope, or the Church of Rome; it is Apoſtolicall not Apoſtaticall; and yet ſhould we grant it any time did paſſe through the Church of Rome, this will not make it Antichriſtian; hath not the Goſpel alſo paſſed through the Church of Rome? diſtinguiſh therefore of the difference betwixt paſſing through and from the Church of Rome. I never doubted ſaith
+<note n="f" place="margin">Bur. <hi>Iren. p.</hi> 183.</note> M. <hi>Burrowes</hi> of the call of our Miniſtry, though ſomething was ſuperadded that was ſinfull There is now another way of ordina<g ref="char:EOLhyphen"/>tion then by Biſhops, which in a ſhort time will ſupplant the old, though we be ſilent; Epiſcopall Ordination is like an old nayle driven off and Caſhiered by the ſucceſſion of a new.</p>
+            <p n="5">5. To the fifth objection, that the Church State was never diſ<g ref="char:EOLhyphen"/>claimed, I anſwer that the Biſhops themſelves never did give ſub<g ref="char:EOLhyphen"/>jection to the Sea of Rome, as may be found in the oath <hi>Ex Officio,</hi> and you might eaſily have remembred what the Parliament and Synod did in taking <hi>Prelacy</hi> roote and branch.</p>
+            <p n="6">6. To the ſixth objection: that the groſſeſt corruptions are not yet diſavowed, is a meere Cavill: for they conſiſt either in Doctrine or worſhip; the groſſeſt corruptions in Doctrine are firſt, either concerning the Popes Headſhip, which was put down in <hi>Henry</hi> the eights time, and in <hi>Q. E.</hi> in <hi>K. J.</hi> and <hi>K. C.</hi> we ac<g ref="char:EOLhyphen"/>knowledge Chriſt to be the only head, and deny that abſurd di<g ref="char:EOLhyphen"/>ſtinction of naturall and miniſteriall, viſible and inviſible. Or ſecondly, concerning Chriſts carnall preſence in the Sacra<g ref="char:EOLhyphen"/>ment, or concerning juſtification by workes, Purgatory, for the denyall of which Articles our Martyrs loſt their lives. As for worſhip amongſt us it is pure and ſimple and unpermixed, as in the Apoſtles dayes; We have no Maſſes, Croſſes, Altars, Surpleſſes, nothing ſpoken in an unknown tongue, you might have done well to have ſpecifyed the corruptions, before you had re<g ref="char:EOLhyphen"/>proved us for them; and whereas you ſay ſome pieces are added only to the old garment, I anſwer, you are miſtaken in the termes, for what you call the old garment is the new peice, and what you call the new piece was the old garment of England. It is true, that halfe reformation &amp; a piece doth never ſatisfie a zealous ſpirit. But for a man in <hi>contempt</hi> to call that halfe Reformation &amp; a piece, which is more then he or his Fathers have ſeen, yea &amp; would have rejoyced to have ſeen, argues a ſupercilious &amp; ungratefull ſpirit.</p>
+            <p n="7">7. To the ſeaventh objection, wherein you cry out <hi>Romiſh Bap<g ref="char:EOLhyphen"/>tiſme,</hi> I anſwer, that you cannot either directly or obliquely, ſhew it
+<pb n="7" facs="tcp:118609:6"/>is Romiſh, except you meane Saint <hi>Paul</hi> brought it hither with him from Rome. Is it Romiſh in regard of its inſtitution; or in re<g ref="char:EOLhyphen"/>gard of its materiall or formall part? Is any thing added or diminiſhed in the word of command, or the word of promiſe? or is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Romiſh in regard of the ſubject to which it is communica<g ref="char:EOLhyphen"/>ted? doe we uſe any
+<note n="g" place="margin">
+                  <hi>Eedem modo ſat tractatur in Baptiſmo. &amp; conjecratum ſecrificans in os Infantis imponit &amp; Satanam E<g ref="char:EOLhyphen"/>migrare jubet &amp; in aquam ter immergit Infantem &amp; oleo Pollicem intingit, pectus &amp; humeros illius illinit. foris &amp; in<g ref="char:EOLhyphen"/>tus campanas lavant.</hi> Sleid. com. l. 21. p. 366.</note> ſuperſtitions and ceremonies before it, in it, or after it? Is there any Salt, Creame, Spittle, exorciſmes uſed, or doe we adminiſter it to Bells, or any irrationall crea<g ref="char:EOLhyphen"/>tures? Tell me <hi>Sir,</hi> when you call it Romiſh doe you meane a Baptiſme by the <hi>Common Prayer</hi> booke, and formes. This in Eng<g ref="char:EOLhyphen"/>land is penall and perillous; Or doe you meane Infant Baptiſme? if you doe, I can aſſure you it was in uſe while Romane Paſtors ſuffered Maryrdome for Chriſt, and I intreat you, if you can, to name Century of yeares from Chriſts time to this one wherein it was not adminiſtred to them.</p>
+            <p n="8">8. To the eighth objection, whereby you enquire whether the Characters forementioned in the ſecond Querie do not in like manner appeare upon the Daughter, the Nationall Church of England; I ſay perhaps you had forgotten the ſecond Querie be<g ref="char:EOLhyphen"/>fore you wrote the third, for where I beſeech you ſhall a man find your markes, the Popes, Cardinalls, Arch-Biſhops, Biſhops, in England, where any blood of Saints that dyed formally as Saints, and not rather upon a civill account? If you know any other markes, as Jeſuites, Fryers, Maſſes, Indulgences &amp;c. either at <hi>New Caſtle,</hi> or in the Weſt, or any other place, it would be reputed good ſervice to the State to diſcover them: we know none (we bleſſe God) we find none, if this be the body of Antichriſt, it is a body without a member, and ſo a contradiction in the <hi>adject.</hi> If you had a minde to ſave Babylon myſticall from the fury of the Nations, and to doe Rome ſome ſpeciall ſervice, you might have done well to have conſulted with <hi>Bellarmine,</hi> and he would have directed you rather to Germany then England, by the name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, wherein by our Learning, if you are a good Arithmetician you might have found out the number 666: but this is but a ſlender ſtick to reare Babylon upon, without a gene<g ref="char:EOLhyphen"/>rall concurrance of all other characters.</p>
+            <p>Q. 4.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether it is not the duty of all Gods people in the nationall Church and in the Parochiall pretended Churches together with their Church Miniſtry, to come out of Babylon and to ſeparate &amp;c.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Candid Reader, be pleaſed to referre theſe opprobrious
+<pb n="8" facs="tcp:118609:7"/>termes. <hi>Parochiall, pretended Church State,</hi> whenſoever they ſhall againe accurre unto their proper place. <hi>Q.</hi> 3.</p>
+            <p>
+               <hi>To ſeparate,] ſeparation</hi> implys a guilt either in our ſelves or others, If you ſay the fault be in our Church, then it is either corrupt in circumſtantialls or ſubſtantialls; if in circumſtantialls the Church is ſtill a true Church: if in Subſtantialls, either in Doctrine or in Worſhip: but ours failes not in either of theſe. And therefore M. <hi>Perkins</hi> juſtly reproves ſuch as depart from us as <hi>Schiſmaticall.</hi>
+            </p>
+            <p>
+               <hi>Church Miniſtry,</hi>] where would you have Miniſters to be but in the Church, where Chriſt hath placed them 1 <hi>Cor.</hi> 12. <hi>Epheſ.</hi> 4. If you mean a Nationall Church, <hi>Gildas</hi> will tell you they were erected before Popery began. And as for the Miniſtry, there are Commiſſioners choſen in every County, that may ſit to refine the Sonnes of <hi>Levi;</hi> if this worke were done throughly and no cloud of diſcontent raiſed againſt active ſpirits, I believe the face of the Church would ſhine like the Spouſe of Chriſt, and not be disfigu<g ref="char:EOLhyphen"/>red like the Daughter of Antichriſt.</p>
+            <p>
+               <hi>Come out of Babylon, Revel.</hi> 18. <hi>Iſa.</hi> 52. <hi>Jerem.</hi> 51.] did ever any Prophet ſerve the Jewiſh State as M. <hi>Pendarvis</hi> ſerves us, bid them come out of Babylon at that time when they were not in it, and tell them they were in Babylon when they were already out of it?
+<note place="margin">
+                  <hi>Acts</hi> 5.22, 23</note> your warrant here reſembles that of the High Prieſt to the <hi rend="sup">a</hi> Officers, that were ſent to fetch the Apoſtles out of priſon, whereas indeed they were out before.</p>
+            <p>There was much falſe worſhip and Idolatry in Iſrael, yet a good Prince was ſtill an effectuall organ and inſtrument of refor<g ref="char:EOLhyphen"/>mation; our Godly <hi>Joſiah</hi> and victorious <hi>Deborah</hi> did caſt out Antichriſt with all moſt all his trumpery, ſo that like <hi>Dagon</hi> &amp; like <hi>Jezabell</hi> there was nothing left but ſome few monuments of his ruine; And let none thinke that <hi>Queen Elizabeths</hi> reformation was Hipocriticall, for though ſome ſtate conſciences did wheele about with the times, yet there was abundance of Gods precious peo<g ref="char:EOLhyphen"/>ple in England, in <hi>King Edward</hi> and <hi>Queen Maries</hi> dayes: for beſides all thoſe that were burnt, all that were impriſoned, all thoſe that ſubmitted with <hi>Peter</hi> for feare, all thoſe that fled into corners, there was no leſſe then 30000 baniſhed as
+<note n="b" place="margin">
+                  <hi>Strada de Bell. Belg. l.</hi> 2. <hi>p.</hi> 71.</note> 
+               <hi>Strada</hi> relates in his Hiſtory of the <hi>Belgick Warres;</hi> adde to this what our grand Par<g ref="char:EOLhyphen"/>liament hath done, and ſee whether we have not cauſe to ſing that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Revel.</hi> 2.3.</p>
+            <p>Q. 5. <hi>Whether the ſtrange and wonderfull providences of God in the
+<pb n="9" facs="tcp:118609:7"/>late Warres in England, Scotland and Ireland,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> have they not cleared the call to the Saints to come out of Babylon &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 5. <hi>David</hi> lays it down as a marke of prophaneſſe and a ſignall of ruine when men regard not the workes of the Lord, nor the operation of his hands, <hi>Pſal.</hi> 28.5. wicked men looke up<g ref="char:EOLhyphen"/>on Providence by parcells, the Godly joyne paſt and preſent to<g ref="char:EOLhyphen"/>gether, and make a golden chaine of them; as it is with words in a ſentence, if we disjoyne them and forget precedent and ſub<g ref="char:EOLhyphen"/>ſequent we can make nothing of them, ſo in Providence, except all paſſages be match't together we looſe the beauty &amp; benefit of all.</p>
+            <p>
+               <hi>Scottiſh Presbyter eminently overthrown,</hi>] what have you to do with Presbyter, is Presbytery over thrown? did God as eminently appeare againſt Presbytery as Royalty, and Epiſcopacy? (poore men) if they had not adhered more to a King then Chriſt, more to Royalty then Presbitery I believe they might have been as happy as our ſelves: but what ſay you to Independency, is not that a Horne of Babylon? for had Independency been beaten as well as Presbytery I doubt you would have been of <hi>Gallios</hi> mind, not to have cared for any ſuch thing: but what though the Scottiſh Preſ<g ref="char:EOLhyphen"/>biter act no leſſe remiſly for his Goverment then many of your Profeſſion for no goverment, yet is he to be acknowledged for the firſt oppoſer of ſuperſtition and Epiſcopacy; for when King
+<note n="a" place="margin">
+                  <hi>Jacobus Rex Britta<g ref="char:EOLhyphen"/>uiae An.</hi> 1609. <hi>conformat eccleſias Sco<g ref="char:EOLhyphen"/>tia cum An<g ref="char:EOLhyphen"/>glicanis prae<g ref="char:EOLhyphen"/>ficiendo iis Epiſcopos con<g ref="char:EOLhyphen"/>tra intentibus pleriſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Scoto<g ref="char:EOLhyphen"/>rum Theolog. Andreas Mel<g ref="char:EOLhyphen"/>vinus erudi<g ref="char:EOLhyphen"/>tiſſimus Sco<g ref="char:EOLhyphen"/>torum in arce Londinenſi detinetur. Buchol. Chronol. p.</hi> 778.</note> 
+               <hi>James</hi> intended to conforme the Scottiſh Church to the Engliſh by impoſing Biſhops upon them in the yeare 1609, the Scots op<g ref="char:EOLhyphen"/>poſed it, whereby ſome endured baniſhment, others impriſonment, and now they appeared the firſt in <hi>Charles</hi> his dayes to oppoſe both Tyranny and Antichriſtianiſme. The heart of <hi>Cyrus</hi> is to give liber<g ref="char:EOLhyphen"/>ty to build Gods Houſe, and to his people to walke in their light, it is well he gave them not liberty to build Caſtles in the ayre, or to cook up a
+<note n="b" place="margin">Archima<g ref="char:EOLhyphen"/>girus emnis generis edulia in unum con<g ref="char:EOLhyphen"/>jecit Lebetem, id quod Satan hiſce tempori<g ref="char:EOLhyphen"/>bus enoliri vi<g ref="char:EOLhyphen"/>detur Synod. Dordreck.</note> meſſe of all Religions with Rhetorick: as liberty is the moſt pretious thing in it ſelfe, ſo the corruptions of it are moſt noxious, tis pitty that the grace of man, as well as the grace of God ſhould be turned into laſciviouſneſſe, I dare affirme he never gave them liberty to walke by any other light, then that of the Word and of the Prophets <hi>Iſ.</hi> 8.20. Liberty may be oppoſed two ways, either by our ſelves or others; by our ſelves, when we ſtop the eare of Conſcience and will not be perſwaded: By others when unlawfull things are obtruded upon the conſcience: his Highneſſe hath given his word he will not oppreſſe you, provided you doe not intangle your ſelves by dealing courſly with your
+<pb n="10" facs="tcp:118609:8"/>ſelves by dealing courſely with your betters, but who gives ſecu<g ref="char:EOLhyphen"/>rity to the orthodox in the mean time, that you and your party ſhall not oppreſſe them? Was it not Tyranny in you, to cut off one of your own Diſciples Eares, and not ſuffer him to heare on both ſides.
+<note place="margin">M. T. <hi>Antiq.</hi>
+               </note> Though truth give liberty to errour, yet errou is ſo ungratefull it will not give liberty to truth, as is made cleare by that notable Inſtance of M. <hi>Tickell</hi> in his additionall Antiqueries, who ſhews us you ſurfeit of liberty, although you hunger and thirſt after more, you ſeem in this caſe to be like per<g ref="char:EOLhyphen"/>ſons diſeaſed with the <hi>Ephiaſtes,</hi> they think ſome body oppreſſeth them, when alas tis nothing but the groſſe humours of their own blood: never was there leſſe reſtraint, never more liberty of con<g ref="char:EOLhyphen"/>ſcience in any ſtate then this, wherein a man may be as Godly as he will.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> oppoſitio paris Autho<g ref="char:EOLhyphen"/>ritatis.</note>
+            </p>
+            <p>Q. 6. <hi>Hath not God caſt the falſe Church ſtate and worſhip, roote and branch out of the hearts and affections of very many of his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 6. Reader I pray thee joyne to this Query what M. <hi>P.</hi> hath ſaid in his <hi>Ep. ded.</hi> where he ſaith, the maine pillars of Baby<g ref="char:EOLhyphen"/>lon the Archbiſhops, Biſhops, with the grand ſupporters are fallen and gone: a diſtempered man when he hath ſpent his Coller, at laſt imbraceth milder concluſions: Thus we oppoſe <hi>Luther</hi> in<g ref="char:EOLhyphen"/>dulging his paſſions to <hi>Luther</hi> moderate and ſober againe, and ſo we muſt doe you, for theſe doe innervate &amp; confute your grand objections. Obſerve, he ſayth Romes maine pillars are demoli<g ref="char:EOLhyphen"/>ſhed, that many, very many of Gods people have caſt out falſe worſhip, will not very many and good carry the denomination by all Rules of Logick and reaſon. Largue thus, where the maine pillars of Antichriſt are demoliſhed, where very many of Gods People are reſident, there is Jerualem and not Babylon: but thus it is bleſſed be God with us; we leave therefore the Author to find out his Babylon in another place: the truth is Scripture names two Babylons, the one Reall, the other Typicall, he deviſeth a third
+<note n="a" place="margin">
+                  <hi>Quis non Impudentiſſi<g ref="char:EOLhyphen"/>me nititur ali<g ref="char:EOLhyphen"/>quid pro ſe Interpretari quod in Alle<g ref="char:EOLhyphen"/>goria poſitum eſt?</hi> Aug. Epiſt. ad Vin<g ref="char:EOLhyphen"/>cent. <hi>Allegoria non ex legentis voluntate ſed ex ſcribentis Authoritate intelligenda.</hi> Hieron. In Gal. 4. <hi>Non eſt funda<g ref="char:EOLhyphen"/>mentum ſed Diabolica Illecebra, ſi a fundamento Allegoria ſe<g ref="char:EOLhyphen"/>taretur</hi> Luth. cum Fabric.</note> 
+               <hi>Babylon, Hypertypicall,</hi> which will prove more chargable for him to raiſe, then it was afore time, to <hi>Semiramis,</hi> inſomuch as he hath not a parcell of ground, but an Aery non Entity to build on.</p>
+            <p>
+               <hi>Bluſh to ſay their Congregations are true Churches</hi>] They bluſh to ſay that Pariſhes are true Churches, but not their Congregations, it ſeemes the Orthodox are modeſt, the Heterodox impudent, I am either groſly miſtaken, or elſe you have as much cauſe to
+<pb n="11" facs="tcp:118609:8"/>
+               <note n="b" place="margin">
+                  <hi>Hinc Haere<g ref="char:EOLhyphen"/>ſi sconvinci poteſt, quod quiſquis ipſis charus eſt etiamſi aliis delictis abundet, &amp; adverſus ſe habeat Ar<g ref="char:EOLhyphen"/>gumenta ſcelerum, tamen in pretio babetur.</hi> Athanaſ.</note> bluſh at your own members, as any Paſtor whatſoever, that hath had a gathered Church in England.</p>
+            <p>
+               <hi>Matter and Forme,</hi>] The matter of the Church are perſons called; the forme, an union with Chriſt and his members: No man need to be aſhamed to own ſuch</p>
+            <p>
+               <hi>Q.</hi> 7.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether the endeavours and tedious labours both of Parlia<g ref="char:EOLhyphen"/>ment, and Synod, for reforming Nationall Church Diſcipline, hath not proved like the waſhing of a blackmore white?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 7. They have not been in vaine, neither in reſpect of themſelves nor others; I am perſwaded they have been inſtru<g ref="char:EOLhyphen"/>mentall to ſave Thouſands; And are your exerciſes and perfor<g ref="char:EOLhyphen"/>mances ſaving? if they be, this liberty proceeded from them, and what good you doe, or have done, proceeds from them as Con<g ref="char:EOLhyphen"/>cauſes; I am almoſt confident, that if all Presbyterians, Indepen<g ref="char:EOLhyphen"/>dants, Anabaptiſts, were drawn out, they would make the ſtrong<g ref="char:EOLhyphen"/>eſt part of the Nation, and as Anabaptiſts are not Babylon in your Eyes, ſo neither is the Presbyterian or Independant (ſo called) in our opinion or in the Eyes of God: But if it ſhould prove otherwiſe in the Muſter, ſay, what is the Reaſon the Nation is more Reformed? Are not the pernicious
+<note n="a" place="margin">
+                  <hi>Sicubi audi<g ref="char:EOLhyphen"/>eris eos qui dicuntur chri<g ref="char:EOLhyphen"/>ſtiani non a domino noſtro Jeſu Chriſto ſed a quoquam alio nominari, ſcias non ec<g ref="char:EOLhyphen"/>cleſiam Chri<g ref="char:EOLhyphen"/>ſti ſed Anti<g ref="char:EOLhyphen"/>chriſti eſſe Synagogum. Hieron. contrae Luciferium. Nos Luthera<g ref="char:EOLhyphen"/>ni Calviniſtae non dicimur ſed cum Paci<g ref="char:EOLhyphen"/>ano dicimus, chriſtianus mihi nomen catholicus cognomen &amp;c. Caeſariae &amp; Pontificiae factionis Nomina Byzantium Turcis dedere, dum de Guelfis &amp; Gibellinis certamen. Sleid. c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. l.</hi> 14. <hi>p.</hi> 223. <hi>Nomen Remonſtrantium &amp; contra<g ref="char:EOLhyphen"/>remonſtrantium Synodus perpetua oblivione delendum cenſet Synod. Drodrec. p.</hi> 323.</note> names of Diſtinction the cauſe? whiles ſome are this way others that way, Chriſt him<g ref="char:EOLhyphen"/>ſelfe ſeemes to be divided: We have amazed the ignorant poore people of the Land, who ſeeing ſo many differences in the way, are reſolved to lye ſtill and periſh under affected ignorance, rather then to runne the hazard of a laborious and diſunited knowledge.</p>
+            <p>
+               <hi>Rejected the ordinance of Excommunication,</hi>] True the ordinance hath ceaſed, and for this cauſe the Church (though it be a Church) may be ſaid to be weakened in her nerves, and ſinewes: without this ſaith
+<note n="b" place="margin">Porcorum Hurra &amp; Colluvies ra<g ref="char:EOLhyphen"/>bidorum ca<g ref="char:EOLhyphen"/>mum. Aug.</note> 
+               <hi>Auſtin</hi> the Church will be a Swine-ſty &amp; a kenell: and were there not liberty granted by Chriſtian Magiſtrates to ſuſ<g ref="char:EOLhyphen"/>pend and excommunicate, I muſt ingeniouſly confeſſe this Arrow in time would pierce my Buckler; and though I ſhould not ſay with this, England is Babylon for the preſent, yet I might ſadly
+<pb n="12" facs="tcp:118609:9"/>preſage, that England would be Babylon in the cloſe. In every
+<note n="c" place="margin">
+                  <hi>In omni cor<g ref="char:EOLhyphen"/>pore politico vel eccleſiaſti<g ref="char:EOLhyphen"/>co neceſſaria eſt poteſtas Judiciaria, Quae proporti<g ref="char:EOLhyphen"/>one reſpondit illi corporis Animalis fa<g ref="char:EOLhyphen"/>cultati, quae Noxia depellit Synod. Dor<g ref="char:EOLhyphen"/>drect. p.</hi> 114.</note> Body, whether Naturall, Politick, or Eccleſiaſticall, there is a power of disburdening it ſelfe of that which is unprofitable, or Noxious; for lack of which, the ſincere part may be infected: It is my Prayer, that God would put into the heart of our <hi>Cyrus,</hi> to ſet up the hedge of diſcipline, in the Church, and curbe the inſo<g ref="char:EOLhyphen"/>lent
+<note n="d" place="margin">
+                  <hi>Magnum eſt Probrum quod inter fili<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Dei locum habent Porci &amp; Canes. Zanch. T.</hi> 2.</note> affronts of ſuch as grumble to let the Children eate their own bread, except they may prophane the banquet with their unhallowed lives and Perſons.</p>
+            <p>
+               <hi>Parliament and Synod,</hi>] here is a ſecond ground to anſwer your grand querie, <hi>Whether England be Babylon?</hi> For a Parliament and Synod are the State and Church Repreſentative. If they be gold and ſilver, though the commonaltie be ſome of them droſſe, our feare need to be the Ieſſe <hi>Math.</hi> 21.42, 43. When the builders reject Chriſt, and great men in office, God doth either overturne them, or the Nation. If we have not forgot our Logick, it tels us, that parts are either <hi>principall</hi> or <hi>leſſe principall,</hi>
+               <note n="e" place="margin">Quibus ab<g ref="char:EOLhyphen"/>latis tollitur totum.</note> Principall are the head and heart; if theſe be ſound there is no great perill; leſſe principall as finger, hand, foote, which though taken away the whole ſtill retaines its old denomination. The
+<note n="f" place="margin">
+                  <hi>Tibia Para<g ref="char:EOLhyphen"/>lyſi vel <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Laborans vera quidem eſt Tibia Twiſſ. Vind. Gratiae contra Armin. Errat.</hi> 8. §. 13. <hi>p.</hi> 39. <hi>in</hi> 40.</note> defect there<g ref="char:EOLhyphen"/>fore that kills is not in integrall parts but eſſentiall, A man may live though his Arme or Legge be Paralyticall, ſyderated, or mor<g ref="char:EOLhyphen"/>tifyed with a Gangreen.</p>
+            <p>
+               <hi>Q.</hi> 8. <hi>Whether the ſaints and Servants of God ought not to declare the Church of England to be indeed no Church of Chriſt,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> but a Daughter of Babylon?</hi>
+            </p>
+            <p>God forbid, rather let our Names be blotted out of the Book of Life; then God ſhould thus reject his people; I ſee your diſtem<g ref="char:EOLhyphen"/>pered Argument is now at the height, therefore I will expoſe it to view, and then cut its nerves aſunder: the ſumme of all that hath been ſpoken or hereafter perhaps ſhall be ſpoken, may be reduced to a Proſyllogiſme and a Syllogiſme.</p>
+            <p>The proſyllogiſme runnes thus,
+<list>
+                  <item>Rome is Babylon,</item>
+                  <item>S. <hi>John</hi> bids us fly from Rome,</item>
+                  <item>
+                     <hi>Ergo</hi> from Babylon.</item>
+               </list>
+            </p>
+            <p>The Syllogiſme is this;
+<list>
+                  <item>An incurable Daughter of Babylon is to be departed from,</item>
+                  <item>But England is an incurable Daughter of Babylon,</item>
+                  <item>
+                     <hi>Ergo</hi> to be departed from.</item>
+               </list>
+            </p>
+            <pb n="13" facs="tcp:118609:9"/>
+            <p>I deny the <hi>Minor,</hi> and anſwer to the <hi>Predicate,</hi>
+               <note place="margin">
+                  <hi>N.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and to the Deter<g ref="char:EOLhyphen"/>mination of it: That ſhee is neither a Daughter of Babylon, nor Incurable: Let England be taken here, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for the noble part and moſt principall; not for the degene<g ref="char:EOLhyphen"/>rate part of the Commonalty.</p>
+            <p>
+               <hi>Ob:</hi> But you will ſay, will it not be granted, That ſhe was a Daughter of Babylon in Queen <hi>Maries</hi> daies.</p>
+            <p>
+               <hi>Sol.</hi> The relation may be taken away from the Subject, while the ſubject remaines, as though ſhe might be a Daughter of Babylon in Q. <hi>Maries</hi> daies,
+<note n="a" place="margin">
+                  <hi>Mauere poteſt Materiale ſublato formali</hi> Melanct. Log. <hi>Membrum Chriſti poſſe eſſe membrum meretricis nullam in ſe continet</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Twiſſ. Vind. Grat. p 94.</note> yet ſhe may be a Daughter of Reformation in Q. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> daies and in ours. That you may ſee how ea<g ref="char:EOLhyphen"/>ſy 'tis to play the part of an Opponent, I will frame an Argument <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or by way of Re<g ref="char:EOLhyphen"/>crimination.</p>
+            <p>Incurable Authors of Confuſion in Church and State, are to be declared
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>M. P. Q.</hi> 15.</note> Babylon, for ſo the name Imports, according to your own judicious obſerva<g ref="char:EOLhyphen"/>tion of it: But ſuch were, and ſuch may be the
+<note n="c" place="margin">
+                  <hi>Anabaptiſtae nuper nati, e<g ref="char:EOLhyphen"/>tiam Turpiter docent conjun gem debere deſcendere a Con<g ref="char:EOLhyphen"/>juge abhorrente a Secta Ana<g ref="char:EOLhyphen"/>baptiſtica, &amp; alicubi per ſe<g ref="char:EOLhyphen"/>ditionem pepulere Legitimos Magiſtratus.</hi> Melanct. Loc. Com. p: 188. <hi>in</hi> 80. This mav induce the Judicious reader warily to obſerve that remarkable paſſage diſ<g ref="char:EOLhyphen"/>covered by M. <hi>Tickell. An<g ref="char:EOLhyphen"/>tiq.</hi> 4. concerning <hi>M.</hi> D.</note> A<g ref="char:EOLhyphen"/>nabaptiſts, or Catabaptiſts, if we believe the Com<g ref="char:EOLhyphen"/>mon opinion, <hi>Ergo,</hi> they are to be deſerted.</p>
+            <p>I leave you to diſtinguiſh betwixt the Germane and Brittaine Anabaptiſts, and Time to verify the Premiſes.</p>
+            <p>Q. 9. <hi>Whether a bare forſaking of the Nationall Church,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and a verball declaring againſt it, is a ſufficient witneſſe bearing for Chriſt? And whether Gods People ought not to hold forth a true Baptiſme and Church Worſhip?</hi>
+            </p>
+            <p>To this I anſwer, <hi>Non ſumus Milites ſed Piſcatores,</hi> What we em<g ref="char:EOLhyphen"/>brace not by our gathering, is, for the preſent, reputed as a refuſe. No other Power is given to the Church, beſides the Key of Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline; ſuch as are unworthy, are they not exclu<g ref="char:EOLhyphen"/>ded by theſe? Where the word of God is Purely taught, the Sa<g ref="char:EOLhyphen"/>craments Purely adminiſtred, a People that Honour God by Pub<g ref="char:EOLhyphen"/>lique Profeſſion, and diſhonouring him not by their Converſati<g ref="char:EOLhyphen"/>ons, There is the Church (ſaith <hi>Luther</hi>) whether they be few in number or many; And from ſuch, in regard of Chriſts ſpirituall Preſence, and Reſidence, it is dangerous to ſeparate: Trouble not your ſelfe any more with a Notionall Nationall Church, already
+<pb n="14" facs="tcp:118609:10"/>anſwered Q. 3. <hi>Zancheus</hi> is contented to
+<note n="a" place="margin">
+                  <hi>Non Inficiamur multa eſſe vitia in noſtris Eccleſiis A<g ref="char:EOLhyphen"/>varitiam, ſuperbiam, inhoſpi<g ref="char:EOLhyphen"/>talitatem &amp;c. ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Magiſtra<g ref="char:EOLhyphen"/>tus admodum ſolliciti ſunt ut haec vitia ab Eccleſiis Chriſti tollantur, ſed omnes quae ſua ſunt Quaerunt.</hi> Zanch. T. 2. p. 78.</note> confeſſe, and ſo the Prophets, what they cannot remedy: There are many vices (ſaith that good man) in our Churches, Covetouſneſſe, Pride, Inhoſpitality, which is a matter of greateſt grief unto us; but above all, the remiſſenes of inferior orbes, in the State fa<g ref="char:EOLhyphen"/>brique, refuſing to redreſſe ſundry enormities, ſuch are Carding,
+<note n="b" place="margin">
+                  <hi>Lex ſine Executione eſt Campana ſine Piſtillo.</hi> Buc. Chronolog.</note> Dicing, Drunkenneſſe, Swearing, Sab<g ref="char:EOLhyphen"/>bath breaking, Acts of Hoſtility to Religion; while all ſeek their own, few or none the things of Chriſt. Thus farre <hi>Zancheus.</hi>
+            </p>
+            <p>
+               <hi>Hold forth a true Baptiſme.</hi>] What is that, Anabaptiſme? An un<g ref="char:EOLhyphen"/>ſcripturall unwholſome Ceremony, Erroneous in regard of the Forme and Subject: Firſt of the Forme, for ſundry are Rebapti<g ref="char:EOLhyphen"/>zed with a threefold demerſion, which is Popiſh, as is related by <hi>Sleiden:</hi>
+               <note n="c" place="margin">
+                  <p>
+                     <hi>Baptizant Eutychiani non in Nomen Trinitatis, ſed in Morte Chriſti ſolum.</hi> Euſeb. Ecc. Hiſt. l. 7. p. 376.</p>
+                  <p>
+                     <hi>Arriani Baptizant in Nomen Genitoris, Geniti, &amp; ſpirantis, Voce Pater, Natus Corpore Flamen ave, tota Triuitas in Baptiſmo Chriſti ſe vid. praebuit.</hi> Til. p. 884. de Bap.</p>
+               </note> others are Rebaptized only in the name of the Lord Jeſus, contrary to his ſacred Inſtitution, who commandeth to Baptize in the name of the Father, Sonne, and Holy Ghoſt: And though you may tell mee of ſome in the <hi>Acts</hi> that were Baptized only in the name of the Lord Jeſus, <hi>Acts</hi> 19 5. Theſe places are not to be underſtood of the forme of Baptiſme, but of the End and Scope of it; for the whole Vertue and Efficacy of Bap<g ref="char:EOLhyphen"/>tiſme, is contained in Chriſt, becauſe he only doth beſtow what Baptiſme ſignifieth; It is the nature of ſome to Innovate, as the Arrians that Baptized <hi>In nomen Genitoris, geniti, &amp; ſpirantis:</hi> and the Eutychians, that Baptized not in the name of the Trinity, but into the Death of Chriſt: By the name of Chriſt, we may underſtand his Doctrine, and take the words not excluſively, but incluſively, as though they Baptized in no other name. You ſuffer little Children to ſerve the Divell too long,
+<note n="d" place="margin">
+                  <hi>Ab Apoſtolis recepit Eccle<g ref="char:EOLhyphen"/>ſia Traditio<g ref="char:EOLhyphen"/>nem Bapti<g ref="char:EOLhyphen"/>zandi parvulos</hi> Orig. cap. 6. ad Rom. <hi>Quod uuiverſa tenet Eccleſia, nec a Conſiliis Inſtitutum ſed ſemper retentum eſt non niſi Apoſtolica authoritate Traditum eſſe Creditur.</hi> Aug. de Bapt. Prav. l. 4. Cont. Donat.</note> we engage them in their Infancy: If Infants have the ſpirit of God, which is the root of all Graces? If they have been Martyrs for Chriſts ſake? If he take them up into his Armes, and bleſſeth them? If he accepts of <hi>Ho<g ref="char:EOLhyphen"/>ſanna's</hi> ſung by them? If they were heretofore under the ſame co<g ref="char:EOLhyphen"/>venant
+<pb n="15" facs="tcp:118609:10"/>of Grace and Faith with us <hi>Rom.</hi> 4.11. If you cannot prove when, where, how, they were expunged out of the Cove<g ref="char:EOLhyphen"/>nant, it will be your beſt way to put them out of the Popiſh <hi>Lim<g ref="char:EOLhyphen"/>bo,</hi> and to give them a place in the Kingdome of Heaven.</p>
+            <p>Q. 10. <hi>Many zealous Miniſters ignorant of the times and ſeaſons,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> be not in danger of fighting against God, and ought not they to ſearch into the Book of the Revelation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There be many times mentioned in Scripture, therefore it had been fit to have diſtinguiſhed them; there is a Time of Birth, &amp; a Time of Death, Times of Warre,
+<note place="margin">Eccles 3.1.2.</note> &amp; Times of Peace Times of Ignorance, and Times of Knowledge; that diſtinction which we are moſt to regard, is the Times of Law and Goſpell <hi>Heb.</hi> 1.1. The
+<note n="a" place="margin">See my Rev. Father in his Com. on <hi>Gen.</hi>
+               </note> Old time laſted 4000 years, the New, till the conſumma<g ref="char:EOLhyphen"/>tion of the World; (ſo called) becauſe after this there will be no Change in Doctrine or Worſhip to the Worlds End: It is a Lear<g ref="char:EOLhyphen"/>ned Ignorance, not to pry into thoſe things, which our great
+<note n="b" place="margin">
+                  <hi>Neſcire vel<g ref="char:EOLhyphen"/>le quae Magi<g ref="char:EOLhyphen"/>ſter maximus neſcire nos vult erudita inſcitia eſt.</hi> Acts 1.7.</note> Maſter hath no deſire we ſhould yet underſtand, <hi>Acts</hi> 1.7.</p>
+            <p>
+               <hi>Search the Revelations;</hi> yea and all the Scriptures, yea and why not <hi>Daniel,</hi> of whom
+<note n="c" place="margin">
+                  <hi>Cum ergo ſint afflictiſſi<g ref="char:EOLhyphen"/>ma haec noſtra tempora ſtudi<g ref="char:EOLhyphen"/>oſe cognoſcen<g ref="char:EOLhyphen"/>dus eſt hic Va<g ref="char:EOLhyphen"/>tes.</hi> Sleid. de 4. Sum. Im<g ref="char:EOLhyphen"/>per. S. 3. p. 678.</note> 
+               <hi>Sleidan</hi> ſaith, he is ſtudiouſly to be read and underſtood, eſpecially becauſe of our afflicted times: But what Points would you have us ſtudy? Is it the Saints Carnall Reigne with Chriſt a Thouſand years? a Thing that I heare of late, hath much tickled the fancy of ſundry of your followers; But when Chriſt comes, ſhall he come with a glorified body, or an unglori<g ref="char:EOLhyphen"/>fied? If he come in a glorified body, he is unfit for our company; if with an unglorified, He is like to be Crucified amongſt us. But the Heavens muſt retaine him untill the reſtitution of all things.</p>
+            <p>What if this Thouſand years be already paſt? may not Chriſt be ſaid to reigne, when <hi>Conſtantine</hi> a Chriſtian Prince reigned? and Satan be ſaid to be bound, when his ten Perſecutions were ended? and let looſe again, when the Turk and Pope grew great, <hi>Anno</hi> 1300?</p>
+            <p>
+               <hi>Paraeus</hi> ſpeaking of this Chapter, tells us,
+<note place="margin">
+                  <hi>Par. in Rev. c.</hi> 20.</note> it is the ſumme and Recapitulation of all the reſt: It is ſaid that the ſoules of the Saints reigned with Chriſt, not their bodies; if it be ſo, our inquiſi<g ref="char:EOLhyphen"/>tion need to be the leſſe, though it be a doctrine of Separation. <hi>Or is it the Riſe or Ruine of Antichrist:</hi> As for his
+<note n="d" place="margin">
+                  <hi>Papiſmus circa Ann.</hi> 606 <hi>in Ner<g ref="char:EOLhyphen"/>vum erup<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t cum Phocas Imperator Bonifacio</hi> 3. <hi>Romano Primatum Conceſſit.</hi>
+               </note> Riſe, it is com<g ref="char:EOLhyphen"/>monly held to be in the time of <hi>Boniface</hi> the third, in the reigne of the Emperour <hi>Phocas</hi> the Paricide; others ſay, <hi>An:</hi> 755. when as
+<pb n="16" facs="tcp:118609:11"/>the Pope became not only univerſall Biſhop, but a Temporall Monarch.</p>
+            <p>As for his
+<note n="c" place="margin">
+                  <hi>Moulin. Accompliſht Prophec. pag.</hi> 378. I perſwade my ſelf (ſaid <hi>Luther</hi>) The day of Judg<g ref="char:EOLhyphen"/>ment is not far off, it will not be abſent full 300 yeares longer <hi>Luth. loc. com. C.</hi> 1. <hi>de Verbo Dei.</hi> By whoſe ac<g ref="char:EOLhyphen"/>count there are not 200 ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> remai<g ref="char:EOLhyphen"/>ning.</note> Ruine, ſome determine it at the yeare 1672. others draw it forth longer, till the yeare 1866.</p>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>Fox</hi> is fully perſwaded he ſhall not reigne long, becauſe we have had of late, many ſignalls of his ruine.</p>
+            <p>
+               <hi>Aretius</hi> in this Poynt is worthy to be noted, who tells us, we are under the 6<hi rend="sup">th</hi> Viall: when as <hi>Euphrates</hi> ſhall be dryed up: For as Babylon was took by <hi>Cyrus,</hi> by diverting of <hi>Euphrates</hi> to make way for his Army; ſo now for ſundry years together, hath the Popes <hi>Euphrates</hi> been dryed up, <hi>viz.</hi> his Trading by Indulgences with many Nations, that a way may be made for the Kings of the Eaſt (that is, heavenly minded Princes) to Conquer him.</p>
+            <p>England, ſaith he, Bohemia, France, are turned from him; What if it ſhould come to paſſe, that the light of the Goſpell ſhould break forth into Italy and Spaine? His Highneſſe great and juſt preparations againſt Spaine, may through the good hand of Providence, accompliſh this Prophecy: Sorry I am, that any that pretends knowledge in the Revelations, ſhould diſturbe his High<g ref="char:EOLhyphen"/>neſſe in ſo Famous and Religious a work: and had I opportunity I ſhould not faile to animate the Valiant Fleet, with ſome pro<g ref="char:EOLhyphen"/>miſes of Succeſſe, fetched out of this divine Oracle.</p>
+            <p>
+               <hi>Q.</hi> 11. <hi>Whether the Pariſh Miniſtry in their ſtanding and acting as ſuch,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> be not found to take part with Babylon? &amp;c. Is it not to make Idolls of them?</hi>
+            </p>
+            <p>I referre the Reader to the word Pariſh, Babylon, confuted before. This Crambe muſt needs be Tedious to the Reader, as well as the Reſpondent; you have repeated Babylon, as oft as Homer doth his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; above Twenty times before you have abſolved your ſecond Page. <hi>Ministry in their ſtanding and Acting,</hi> Their ſtanding and acting at all, is, I feare, an Eye ſore and burthen to you: for I am eaſily perſwaded, you abhorre them as much in the Praedicament of <hi>Subſtance</hi> as <hi>Scituation;</hi> It is not the People that make Idolls of them, but your ſelfe, and your Party, the 1 <hi>Cor:</hi> 8.4. The word in the Originall is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies <hi>nothing;</hi> and who deſires to have that ſignall function An<g ref="char:EOLhyphen"/>nihilated and Vilifyed, more then an Anabaptiſt? The truth is, while you ſtrike deſperately at all, you make others tremble to ſtrike at any, be they never ſo culpable.</p>
+            <p>
+               <hi>Peter a miſleader, and Barnabas miſled.</hi>] If ſuch men may miſlead,
+<pb n="17" facs="tcp:118609:11"/>and be miſled, and not only be Paſſively ſeduced, but Active ſe<g ref="char:EOLhyphen"/>ducers, Why may no M<hi rend="sup">r</hi> 
+               <hi>P.</hi> be in danger of ſhooting at Rovers? except ſome of his Diſciples Voutch for his Infallibility? An Er<g ref="char:EOLhyphen"/>ror that hath been objected unto them by none of the Or<g ref="char:EOLhyphen"/>thodox.</p>
+            <p>
+               <hi>Preferments.</hi>] I will not ſay ſuch a mortified man as your ſelfe aimes at them, <hi>Gloria potius Contemnenda dicitur, quam contemnitur.</hi>
+               <note place="margin">Buchol.</note> But I am Sorry that you ſhould harbour this groſſe opinion, That the choyceſt of our Miniſters oppoſe Reformation upon Carnall, Sordid, Dunghill Principles; Here if ever, it were neceſſary to take notice of your boldneſſe,
+<note place="margin">Windel. in Ep. de Euthe<g ref="char:EOLhyphen"/>ranis.</note> and to give you <hi>Convitium Reſor<g ref="char:EOLhyphen"/>bendum,</hi> but I forbeare; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a morall vertue taught us in Ethicks, Divinity ſure will teach it us much more. <hi>Phil.</hi> 4.11.</p>
+            <p>
+               <hi>Q.</hi> 12.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether the greater number of People in the Pariſh Aſſembly are not in danger of Eternall Domnation, through their high Preſump<g ref="char:EOLhyphen"/>tion they are in Chriſt and Regenerate in Baptiſme?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If they be, for the moſt part, they may thank themſelves; either they have better Teachers, or may have, But that God in Judgement doth ſometimes make them like People like Prieſt. We tye not Regeneration to the time of Baptiſme, it may be as well before and after, as in <hi>eodem Articulo,</hi>
+               <note place="margin">Perk. in Gal. p. 204. <hi>Sigillum foe<g ref="char:EOLhyphen"/>deris non fa<g ref="char:EOLhyphen"/>cit foederatum ſed declarat.</hi> Windel. Th. p. 376.</note> yet there is an Analogy between them, <hi>Titus</hi> 3.5. See the Confeſſion of our Faith by the R. Aſſembly, <hi>The Efficacy of Baptiſme is not tyed to that moment of time wherein it is Adminiſtred;</hi> It admits into the Church, but makes not Members: It Conferres not the firſt grace, but confirmes it: The ſeale of the Covenant makes not a Covenanter, but declares him ſaith <hi>Windelinus.</hi>
+            </p>
+            <p>If Phariſaicall Spirits, and Morall honeſt men, will think there is more in the outward Seale, then there is: If being ignorant of Gods righteouſneſſe, they Labour to eſtabliſh their own Righte<g ref="char:EOLhyphen"/>ouſneſſe, <hi>Rom.</hi> 10.3. I ſuppoſe Baptiſme is not the cauſe: For if Circumciſion may become Uncircumciſion, <hi>Rom.</hi> 2.5. Then alſo Baptiſme may become no Baptiſme, and hereupon they may be reputed no better of, then for Heathens and Publicans.</p>
+            <p>Q. 13. <hi>Would it not be a Praiſe-worthy deed,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> to declare the Sin of their Predeceſſors, in declaring the People to be borne againe in Baptiſme? and ſhould they not informe the Godly they are in no viſible orderly Church ſtate? and ſhould they not give a Plaine deniall to adminiſter any Ordinance of Chriſt to the common multitude?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is very little in this Querie to be diſſented from, I
+<pb n="18" facs="tcp:118609:12"/>wiſh promiſcuous Adminiſtration of Ordinances as well of Bap<g ref="char:EOLunhyphen"/>tiſme as the Lords Supper were repented of, and that by an Edict of State? But I would know, what you intend by ſuppoſed Chriſtnings, in the Cloſe of the Query. If you oppoſe that Ordi<g ref="char:EOLhyphen"/>nance as ſuppoſititious, I ſhall God willing diſcuſſe that poynt with you at farther leaſure.</p>
+            <p>
+               <hi>Shall God make Inquiſition for blood of Bodies and not ſoules?</hi>] Yea ve<g ref="char:EOLhyphen"/>rily, and as for all Antichriſtian Miniſters, and Proſtitutors of Gods Ordinances to a prophane Rabble, I wiſh (in M<hi rend="sup">r</hi> 
+               <hi>Latimers</hi> phraſe) the State would make <hi>Quondams</hi> of them: I believe the
+<note n="a" place="margin">
+                  <hi>Henricus ſeptimus Im<g ref="char:EOLhyphen"/>perator Ger<g ref="char:EOLhyphen"/>maniae vene<g ref="char:EOLhyphen"/>nata Hoſtia infectus, dix<g ref="char:EOLhyphen"/>it Monache Domine, &amp;c.</hi> Func. Chr.</note> Emperour <hi>Henry</hi> the 7<hi rend="sup">th</hi> was not the firſt nor the laſt, that was Poyſoned by the Sacrament: <hi>The Lord Pardon this Crying ſinne to England, and let the Godly Reader ſay</hi> AMEN.</p>
+            <p>Q.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 14. <hi>Juſtifying the ſprinkling of ungodly prophane and popiſh chil<g ref="char:EOLhyphen"/>dren; and though they refuſe to ſprinkle them themſelves yet ſtrengthen the hands of them that doe.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We juſtifie it not any more then Civilians do juſtifie Clandeſtine marriages; <hi>fieri non debuit, factum valuit.</hi> But this An<g ref="char:EOLhyphen"/>ſwer doth not ſatisfie you, for (ſay you) this may defend any act of will worſhip, as well as that; but you cannot make baptiſme to be will worſhip, ſeeing there is a command for it; I ſuppoſe the ground of this anſwer was tooke upon this account, that Bap<g ref="char:EOLhyphen"/>tiſme in no caſe was to be Reiterated, which (with ſubmiſſion to better Judgements) I doe not altogether allow. For it was en<g ref="char:EOLhyphen"/>acted in the Councell of
+<note n="a" place="margin">
+                  <hi>Placuit de Infantibus quoties non inveniuntur Certiſſini Te<g ref="char:EOLhyphen"/>ſtes abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ullo ſcrupulo Re<g ref="char:EOLhyphen"/>baptizandos</hi> Concil. 5. &amp; River. de Bapt. §. 55.</note> 
+               <hi>Carthage,</hi> that if any Children doubted of the certainty of their Baptiſme, when they came to age they might be baptized; And <hi>Leo</hi> ſaith, that cannot be counted an ite<g ref="char:EOLhyphen"/>ration which is not known to be done before. This one thing I deſire my reverend bretheren to take notice of, that the ſprink<g ref="char:EOLhyphen"/>ling of prophane mens Children promiſcuouſly may prove juſtly ſcandalous: <hi>Ameſius</hi> in his caſes of conſcience tells us, that that
+<note n="b" place="margin">
+                  <hi>Incuria illa ideirco. neuti<g ref="char:EOLhyphen"/>quam poteſt excuſari, qua promiſcue &amp; ſine diſcrimi<g ref="char:EOLhyphen"/>mine admit<g ref="char:EOLhyphen"/>tantur ad bap<g ref="char:EOLhyphen"/>tiſmum qui<g ref="char:EOLhyphen"/>cunque &amp; a quibuſcunque offexuntur.</hi> Ameſc. c. c. l. 4. c. 28.</note> 
+               <hi>careleſneſſe</hi> whereby all are admitted to baptiſme, hand over head, whoſoever, whenſoever, and preſented by whomſoever, cannot be excuſed: and <hi>Calvin</hi> alſo in his Epiſtle to
+<note n="c" place="margin">Lib. Ep. Calv. p. 112.</note> 
+               <hi>Knox,</hi> tells us, that nothing is more prepoſterous, then to offer to inſert ſuch into Chriſts body, whom we cannot hope will ever be his Diſciples.</p>
+            <p>
+               <hi>Strengthen the hands of them that doe</hi>] I doe ſuppoſe here is ſome reflexion caſt upon your Antagoniſt: But whoſe hands hath he ſtrengthened? Nay hath he not weakened the hands of <hi>M. R.</hi> and <hi>M. H</hi> and proſecuted them upon his own charge, and brought
+<pb n="19" facs="tcp:118609:12"/>up ſome of his own members, for witneſſes againſt their pro<g ref="char:EOLhyphen"/>miſcuous dealings, when not one of your party did afford us the leaſt aſſiſtance or encouragement; If there be any man that acts contrary to any Law or Act, now in being, oppoſe him and ſpare not; The times are ſtrict enough, and you want not ſome favou<g ref="char:EOLhyphen"/>rers of yours, to be their judges. I never heard or knew of any Popiſh children baptized amongſt us, and yet the pariſh is popu<g ref="char:EOLhyphen"/>lous, and of a great extent: nay I retort, were they Popiſh Children they would not be baptized; &amp; though you and I could wiſh that pure ordinances might never be polluted; yet there is no mortall man can chuſe but now and then an Hypocrite will taſt of them: I referre you to <hi>Apollonius,
+<note n="d" place="margin">
+                     <hi>Soboles ex ſanctis &amp; piis Atavis proge<g ref="char:EOLhyphen"/>nita (quamvis Apoſtatae fue<g ref="char:EOLhyphen"/>runt Avi &amp; Parentes) ad eccleſiae corpus pertinent.</hi> Cal.</note> Spanhemius, Rivet, Calvin,</hi> to try whe<g ref="char:EOLhyphen"/>ther the immediate unrighteouſneſſe of the parent be ſufficient to diſpoſſeſſe the Child of his right to the ordinance, ſeeing in the Covenant of grace the Sonne ſhall not beare the iniquity of the Father, nor can the unrighteouſneſſe of man make the covenant of God of none effect <hi>Rom</hi> 3.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>Q. 15. <hi>Likeneſſe of the Jewiſh nationall Church Babylon, old Romiſh State and painted Jezebell.</hi>
+            </p>
+            <p>Sir, was there ever any congregation in the world, that was not mixed? If you will not preach but to an unmixed Congregati<g ref="char:EOLhyphen"/>on, you muſt with <hi>Aceſius,</hi> get a ladder and climbe up to Heaven alone. Hypocrites make no confuſion, you cannot diſcerne all Tares from Wheate, many times they excell others, and as a Comet may make a greater Blazing then a fixed ſtarre.</p>
+            <p>
+               <hi>Painted Jezebell,</hi>] If England had any Romiſh paint or old varniſh, the heat of Gods fiery tryall and his angry breath hath diſſipated it; her face at preſent is rather furrowed and rough caſt with adverſity, then levigated &amp; gariſh by proſperity. Alas! (like <hi>Zion</hi>) her teares for the late deſolations, are ſcarce wiped off her cheekes, and can any man think ſhee can have an itch to painting, and ſuperſtition. M <hi>R.</hi> tells us, his Highneſſe is <hi>Jehu,</hi> if then the Church State be <hi>Jezebell</hi> he will ſpeedily overthrow it: nay you your ſelfe ſeem to tell us ſuch a thing in your Epiſtle, your words are theſe; <hi>Shee hath painted her face with more art then Jezebell, or elſe ſome have leſſe zeale then Jehu, who having no great power on his ſide &amp;c.</hi> They are <hi>Jehu</hi> and they are not, they have his vices but not his vertues, no not <hi>
+                  <g ref="char:V">Ʋ</g>mbram virtutis:</hi> this ſimilitude will never run cur<g ref="char:EOLhyphen"/>rant, for it hath but one foote inſtead of foure; you may do well to think more candidly of his
+<note n="a" place="margin">
+                  <hi>Qui ſum<g ref="char:EOLhyphen"/>mum princi<g ref="char:EOLhyphen"/>pent cui debe<g ref="char:EOLhyphen"/>tur obſequium dedecore affieit Dei majeſtati cujus eſt ima<g ref="char:EOLhyphen"/>go vivens ac ſpirans, contu<g ref="char:EOLhyphen"/>meliam infert.</hi> Bodin de Rep. l. 1. c. 10. p. 192. <hi>Spuit in ſe qui ſpuit in Olym<g ref="char:EOLhyphen"/>pum.</hi> Scalig. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Jude 8.</note> 
+               <hi>Highneſſe</hi> and of the Church of Eng<g ref="char:EOLhyphen"/>land,
+<pb n="20" facs="tcp:118609:13"/>and to charge others to be afraid to ſpeake evill of dignities: But I ſhall have more opportunity to defend them, in the next enſuing Queries.</p>
+            <p>Q. 16.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether the myſtery of iniquity did not worke mainly to bring the Saints back to Moſes killing Doctrine, his rudiments and ſhadowes? and whether the Apoſtle did not bend himſelfe againſt the way of confounding the grace of God with mans workes, and Moſes old Law with Chriſts New Te<g ref="char:EOLhyphen"/>ſtament Ordinances?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> What doe you meane by <hi>Moſes</hi> Lawes? is it the Morall Judiciall or Ceremoniall Law that you are offended with? till you ſpeake out, I will take you in the beſt ſence, and be ſo cha<g ref="char:EOLhyphen"/>ritable as not to think you an Antinomiſt; Is there any man a<g ref="char:EOLhyphen"/>mongſt us that ſtands up for ceremonies? or is there any againſt all Ceremonies? for without them it is impoſſible that the ordinan<g ref="char:EOLhyphen"/>ces ſhould be adminiſtred. Take this rule from Godly <hi>Greenham;</hi> a man whoſe counſell the <hi>Browniſts</hi> afore time were forced to take; whatſoever <hi>ſeparates</hi> man from God, or one man from another, that is an abrogated ceremony: But on the contrary, whatſover joynes man to God, or man to man, thats in force. If any be ceremo<g ref="char:EOLhyphen"/>nious in the former ſence, Sir tis you, and your pretended Church, 'which for her ambition and fingularitie may come neere to Babylon, for if a man have not a new marke in his <hi>forehead,</hi> he muſt not pray nor receive with you, though he may give as fair markes and evidences for Heaven as any of your Tribe, yea and farre excell them; the Apoſtle tells us <hi>Tit.</hi> 1.11. That a mi<g ref="char:EOLhyphen"/>niſter muſt not be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not ſelfe willed, <hi>inflexible, contumacious,</hi> had you harkened to ſome overtures or peace, made by ſome ſpeciall friends to you and me, you had not proſtituted your re<g ref="char:EOLhyphen"/>putation a ſacrifice to publique fame, nor extorted a line of con<g ref="char:EOLhyphen"/>tradiction from me.</p>
+            <p>Q. 17.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether the myſtery of iniquity be not promoted and upheld by Humane and Serpentine wiſedome with worldly power and policy, exalting the creature above the Creator?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is a myſtery in this Query, whether it be a myſtery of iniquity I know not: ſure you deſire with the <hi>Saepia</hi> to lye hid un<g ref="char:EOLhyphen"/>der your own inke, are you againſt all wiſdome, or againſt all ſer<g ref="char:EOLhyphen"/>pentiue wiſedome? Serpentine wiſedome is commended by Chriſt to his Diſciples; would you not have us wiſe enough to deſcrie what deſignes are a brewing? Perhaps by worldly power, you may meane the head of the ſtate; and if ſo, it is Serpentine
+<pb n="21" facs="tcp:118609:13"/>wiſedome indeed for all men to labour to defend a <hi>Publique Head;</hi> as for naturall parts, we honour them as Gods gifts, yet we will not Idolize them: parts without grace, is like a Jewell in a ſwines ſnout.</p>
+            <p>Q. 18. <hi>God hath laid by many Inſtruments,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> he will chooſe moſt un<g ref="char:EOLhyphen"/>likely inſtruments in mens account, even the younger Bretheren, as David among the Sonnes of Jeſſe, wheether there are not many good men like to be de<g ref="char:EOLhyphen"/>ceived, who looke as Samuel did on Eliab; or ſome prudent men to be the only prime inſtruments for Gods worke, which will not be done by power or might.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sir, in this you deale (me thinkes) rather like a States-man, then a Miniſter: I wiſh you to remember <hi>Funcius</hi> his
+<note n="a" place="margin">
+                  <hi>Diſce meo exemplo man<g ref="char:EOLhyphen"/>dato munere fungi, &amp; fuge ſeu peſtem,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Motto:</hi> to open this we muſt have recourſe to the 1 <hi>Sam.</hi> 16.6. and it came to Paſſe when they were come, that he looked on <hi>Eliab,</hi> and ſaid, ſurely the Lords anointed is before him: I will not ſay point-blanke who is <hi>Eliab</hi> and who is <hi>David</hi> in your account: But I beſeech you ſubmit to thoſe in Authority, leaſt you bring this Nation to a Babylon of confuſion indeed. The Greeks have a Proverbe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not to diſturbe a bad ſtone well placed, for feare of demoliſhing the whole fabricke; how much leſſe a good ſtone, a Corner ſtone; that ſeekes not to op<g ref="char:EOLhyphen"/>preſſe but to cheriſh Godlineſſe in the higheſt ſpheare.</p>
+            <p>Q. 19. <hi>Whether the Faith and Prayers of Gods people,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> were not as the Chariot wheeles to the great worke of God in this Nation? and whether by leaning to mans Power and Policy, they be not turned aſide to crooked wayes.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Except ſome of your Church pray more, I ſhall not ac<g ref="char:EOLhyphen"/>count them Saints; Let them deale more in Piety, leſſe in Policy, or elſe they will not deſerve the name: Let us leave ſaith
+<note n="a" place="margin">Sua ſibi ha<g ref="char:EOLhyphen"/>beant regna! Reges, ſuas Divites Divi<g ref="char:EOLhyphen"/>tias, ſuam prudentiam prudentes &amp; relinquant no<g ref="char:EOLhyphen"/>bis ſtultitiam noſtram &amp;c.</note> 
+               <hi>La<g ref="char:EOLhyphen"/>ctantius,</hi> to Governors their Goverment, to Rich men their Riches, to Wiſe men their Wiſdome; ſo we keep cloſe to Chriſt, it will be well with us in the meaneſt condition.</p>
+            <p>Q. 20. <hi>Whether the continuance of diverſe Godly men in Babylon, be,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> not an occaſion &amp;c.</hi>
+            </p>
+            <p>It is well you acknowledge ſome Godly men to be amongſt us: no marvaile if you are miſtaken in your account, when <hi>Elijah</hi> was in his: God (no doubt) hath many Thouſands in England: Eve<g ref="char:EOLhyphen"/>ry knee that hath not bowed to <hi>Baal,</hi> every mouth that hath not kiſſed him.</p>
+            <p>
+               <hi>Fly out.</hi>] Privation preſuppoſeth a habit; would you have thoſe fly out that are not in?</p>
+            <pb n="22" facs="tcp:118609:14"/>
+            <p>Q. 21.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Whether the Antichriſtian Miniſtry in the Nation, which de<g ref="char:EOLhyphen"/>rive their Church ſtate from Rome, are not found committing fornica<g ref="char:EOLhyphen"/>tion with the Kings of the Earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt ſignifies anoynted: Thoſe that would pull down Magiſtracy and Miniſtry are Antichriſts, becauſe they oppoſe the Lords Anoynted, not with a <hi>Materiall,</hi> but with a <hi>Spirituall <g ref="char:V">Ʋ</g>nction.</hi> I ſeldome find any perſons murmuring againſt <hi>Aaron,</hi> but they murmure againſt <hi>Moſes</hi> alſo.</p>
+            <p>Give me leave to quote here a Paſſage of <hi>Buxtorfes</hi> Epiſtle before his Hebrew
+<note n="a" place="margin">
+                  <hi>Subſtraxit Judaeis immo<g ref="char:EOLhyphen"/>rigeris Paſto<g ref="char:EOLhyphen"/>tes Prophetas animarum: ſu<g ref="char:EOLhyphen"/>ſtulit Reges Tutores Corpo<g ref="char:EOLhyphen"/>rum, &amp; con<g ref="char:EOLhyphen"/>ſervatores Tran uillita<g ref="char:EOLhyphen"/>tis publicae, Iude res ipſo<g ref="char:EOLhyphen"/>rum Caeperunt magis magiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> peſſum Ire, Religio Con<g ref="char:EOLhyphen"/>cidere, Sectae irrumpere. Tunc nulla pax domi, ſed Horribilis Va<g ref="char:EOLhyphen"/>ſtatio. &amp;c.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Lexicon.</hi> When the People of Iſrael (ſaith he) were refractory and Perfidious, God reſolved to caſt them off, and to ingraffe the Gentiles: He then takes from the diſobedient Jewes the Prophets, who were the Paſtors of their Soules, and Kings the Protectors of their Common-wealth, and conſervators of publique Tranquility; After that, all things were worſe with them: Religion fell, and Sects and Schiſmes broke in upon them; there was no peace at Home, but horrible Confuſions. &amp;c.</p>
+            <p>Q. 22. <hi>Many found willfull Apoſtates.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Apoſtacy is a Retrograde motion from Religion; it is ei<g ref="char:EOLhyphen"/>ther Totall or Partiall, of Malice with <hi>Julian,</hi> or of Infirmity: who theſe be, I leave to you to determine: I think many Ana<g ref="char:EOLhyphen"/>baptiſts perſecute that light, which firſt they profeſſed, and oppoſe that Miniſtry, that brought them to a ſtate of Grace (if they have any) more then the graceleſſe Commonalty.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>Qu: 23. <hi>In Babylon was found all the Blood of Saints.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am ſure, if Anabaptiſts be Saints, there is not a drop of their blood yet ſpilt amongſt us, there is as yet no violent Perſecu<g ref="char:EOLhyphen"/>tion (thanks to the Powers above.) <hi>Auſtin</hi> tells us of Three ſorts of Perſecutions, that ſhall befall the Church; the firſt Violent, the ſecond Fraudulent, the third both Violent and Fraudulent: Men will ſow the Lyons skinne and the Foxes tayle together, to act their Part againſt Chriſt and his cauſe; But then the Miniſters of Chriſt ſhall (as <hi>Luther</hi> ſaith) be either in Heaven or under Hea<g ref="char:EOLhyphen"/>ven: In which place I would willingly leave you, and ſublimate your thoughts, as Chriſt did the Sonnes of <hi>Zebedee,</hi> from puzling themſelves about a Temporall Kingdome.</p>
+            <p>Thus Sir, as multiplicity of buſineſſe would allow me, (beſides perſonall infirmities) I have endeavoured to give ſatisfaction to your Queries: If hence either you or others may be admoniſhed, I am ſufficiently rewarded; True friendſhip ſaith
+<note n="a" place="margin">
+                  <hi>Vera amici<g ref="char:EOLhyphen"/>tia monet &amp; monetur; Cu<g ref="char:EOLhyphen"/>jus Aures Clauſae ſunt Veritati ejus deſperanda ſa<g ref="char:EOLhyphen"/>lus.</hi> Cicero.</note> 
+               <hi>Cicero</hi> doth
+<pb n="23" facs="tcp:118609:14"/>admoniſh and is admoniſhed: If we will be the Sonnes of Truth, we muſt conſider what it ſpeaketh, and trample upon our own credit, yea and other mens too, if either be any way an impedi<g ref="char:EOLhyphen"/>ment unto it.</p>
+            <p>Had I not feared the Inſolency of ſome of your own party, and the Proximitie of the danger to ſome of my own flock, I ſhould not have put forth this defenſive Armour: And as for the end I propoſed to my ſelfe in entring the Liſts of Controverſy with you, I ſolemnely Profeſſe I never aimed at Victory, but the Truth; and rather at the <hi>Converſion</hi> of your Perſon, then the <hi>Subverſion</hi> of your Queries.</p>
+            <trailer>ΤΕΛΟΣ.</trailer>
+         </div>
+         <div type="queries">
+            <head>Anti Queries propoſed to the Author of the Queries.</head>
+            <p>
+               <hi>Q.</hi> 1. WHether you do not revive old Hereſies, ſpecially thoſe of the Donatiſts, in ſeverall branches which they held?</p>
+            <p n="1">1. That the Church was only in a corner of the Nation.</p>
+            <p n="2">2. That it was fit to Rebaptize ſuch as were orthodoxly Baptized.</p>
+            <p n="3">3. That they had a Church without ſpot or blemiſh.</p>
+            <p n="4">4. That the efficacy of the Sacrament depends upon the Miniſter.</p>
+            <p n="5">5. That the Magiſtrate hath no authority in matter of Religion.</p>
+            <p n="6">6. That all other Aſſemblyes were prophane, except their own.</p>
+            <p>
+               <hi>Q.</hi> 2. Whether you are not one of the leaſt of thoſe that follow the Lambe, not in your fained <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but in regard of your bitter expreſſions againſt the Church of God, calling it <hi>Antichriſtian, Babylon, Jezabell, &amp;c.</hi> whereby you have made your Arrowes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Eph.</hi> 6.16.?</p>
+            <p>
+               <hi>Q.</hi> 3. Whether you have not pleaſed the Papiſt, in this booke, as much as diſpleaſed the Orthodoxe? and ſo made ſad the heart of the righteous, whom God hath not made ſad; and ſtrengthened the hand of the wicked, that they ſhould not turne from their wickedneſſe?</p>
+            <p>
+               <hi>Q.</hi> 4. Whether M. <hi>Lat mer,</hi> in his fourth Sermon, did know what an Heretick was, when he calls the Anabaptiſt by that name, as ſuch that oppoſe verity, as well as unity? And whether alſo the Martyr <hi>Philpot</hi> did well to ſay (in the Book of Martyrs) that the Anabaptiſts were a ſort of men ſtirred up to hinder the reformation of the Goſpell? And if ſo, whether God will not remove every pricking Bryer, as well as every grieving thorne, from the houſe of Iſraell?</p>
+            <p>
+               <hi>Q.</hi> 5. Whether had the Anabaptiſts enjoyed the ſame liberty in the Kings time as they doe now, it would not have been looked upon as an unſpeake<g ref="char:EOLhyphen"/>able favour?</p>
+            <pb n="24" facs="tcp:118609:15"/>
+            <p>
+               <hi>Q.</hi> 6. Whether <hi>Auxentius,</hi> one of the <hi>Arrian</hi> Sect, were not the firſt that oppoſed <hi>Poedobaptiſme?</hi> And whether <hi>Agrippine</hi> of Carthage, were the firſt of mortalls that brought in rebaptization?</p>
+            <p>
+               <hi>Q.</hi> 7. Whether it becomes Anabaptiſts to pull down publike places of worſhip, and to diſturbe a Godly Miniſtry, and ſo to draw upon them<g ref="char:EOLhyphen"/>ſelves the guilt of other mens ſinnes?</p>
+            <p>
+               <hi>Q.</hi> 8. Whether diſputation be a convenient way to determine differences of this nature, Except authorized and managed by the publique Magiſtrate? For (faith <hi>Luther</hi>) Hereſie is the ſcourage of divine wrath: as a carnall ſword in their coaſts was the plague of a carnall people, ſo is the Spirituall ſword amongſt Chriſtians: therefore it is not to be overcome (ſaith he) by wit and learning, but by prayer and faſting.</p>
+            <p>
+               <hi>Q.</hi> 9. Whether Chriſt did ever authorize any to Baptize but a Miniſter, or one extraordinarily qualifyed? And whether you concurre not with the Papiſts in ſuffering others to Baptize?</p>
+            <p>
+               <hi>Q.</hi> 10. What ſhall become of Infants under the New Teſtament, ſeeing according to your tenets, they neither believe nor are to be Baptized? <hi>Mark.</hi> 16.16.</p>
+            <p>
+               <hi>Q.</hi> 11. Whether you hold it unfit, that ſuch pious Miniſters as preach the Goſpell, ſhould live of the Goſpell?</p>
+            <p>
+               <hi>Q.</hi> 12. Whether it be lawfull for a Paſtor to be circumforaneous? And to take care of ſeverall Churches at a remote diſtance, except he can ſhew Apoſtolicall inſtitution? And whether this doth not juſtifie the Popiſh and Prelaticall Clergy, in their large Commenda's of one man to plurality of Benefices?</p>
+            <p>
+               <hi>Q.</hi> 13. Whether <hi>Davenants</hi> queſtion <hi>(mutatis mutandis) An Ieſuit: pontificii poſſunt eſſe boni ſubditi?</hi> may not as pertinently be demanded, concerning ſome others of your party, that are of the ſame bitter, ſubtile, and implacable ſpirit?</p>
+            <p>
+               <hi>Q.</hi> 15. Whether thoſe that ſeem to deſire the comming in of the Jewes, doe not only erre in Politicks, but alſo in Piety? The eares of ſome men being more open to novelty then truth: and the ſpirit of men more prone (in this preſent juncture of time) to ſedition then ſubjection.</p>
+            <p>
+               <hi>Q.</hi> 15. Whether <hi>Saint Auſtin</hi> were not a man of incomparable meekneſſe, &amp; of a Lamb-like ſpirit indeed, who did often intercede with the Magiſtrates, in behalfe of the <hi>Donatiſts,</hi> though bitter Enemies to him and the truth?</p>
+            <p>
+               <hi>Q.</hi> 16. Whether thoſe men that talke ſo much againſt Babylon, would not do well to fight againſt it? I meane Babylon myſticall, not phantaſticall: and whether it be not madneſſe for us that have ſo many enemies abroad, to ſpend our time in darting one againſt another at home? The words of <hi>Lucan</hi> are not impertinent to unfold our caſe</p>
+            <epigraph>
+               <q>
+                  <l>Cum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuperba foret Babylon ſpolianda tropheis</l>
+                  <l>Bella geri placuit nullos habitura triumphos.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Reader, <hi>take notice that in</hi> p. 9. l. 27, 28. The heart of Cyrus &amp;c. <hi>are M. P</hi>'s <hi>words.</hi> l. 30. <hi>for Rhetorick, read</hi> Rhetorius.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
